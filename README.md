@@ -148,3 +148,7 @@
 
 ### run the socket server TURN_FAST_WEB
 `alias socket='node socket_app/socket.js'`
+
+### Jumpstart to donation project
+`alias donation='v27;pyarena;cd donation_django_angular/donation;python manage.py runserver'`
+
