@@ -131,6 +131,12 @@
 `alias runw='npm run watch'`
 
 
+#  PhoneGap Commands 
+
+### using lumen engine to create new laravel/lumen project
+`alias pserve='phonegap serve'`
+
+
 
 # Project Based Shortcut Commands
 
@@ -151,4 +157,8 @@
 
 ### Jumpstart to donation project
 `alias donation='v27;pyarena;cd donation_django_angular/donation;python manage.py runserver'`
+
+### Jumpstart to donation project
+`alias nihongo='mobarena;cd nihonGo;pserve'`
+
 
